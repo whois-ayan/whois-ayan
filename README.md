@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ayan Sohail
+#                                        👋 Hi there, I'm Ayan Sohail
 
 ### 📊 Aspiring Data Scientist | Student | Developer in Progress
 
@@ -83,25 +83,6 @@ I'm still learning and building my foundation, experimenting with different tech
 
 
 
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/ayansohail31404">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/howeird_ayan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/whois-ayan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whois-ayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <i>Learning • Building • Exploring • Improving 🚀</i>
