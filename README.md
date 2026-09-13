@@ -12,15 +12,11 @@ I'm still learning and building my foundation, experimenting with different tech
 * ☕ Java
 * 🌐 HTML
 * 📊 Data Science
-* 🧠 Data Analysis & Problem Solving
 
 ### 💭 A Little About Me
 
-* 🎓 Currently pursuing **Data Science**
 * 💻 Enjoy learning and experimenting with code
 * 📚 Always trying to learn something new
-* 🛠️ Building small projects as I learn
-* 🚀 Slowly turning ideas into real projects
 * 🌱 Learning, improving, and growing one step at a time
 
 > *"Still learning. Still building. Still becoming better."*
@@ -53,14 +49,6 @@ I'm still learning and building my foundation, experimenting with different tech
   </a>
 </p>
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whois-ayan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-ayan&layout=compact&hide_border=true&langs_count=8" height="180"/>
-</p>
 
 ---
 
@@ -72,23 +60,8 @@ I'm still learning and building my foundation, experimenting with different tech
 
 ---
 
-## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whois-ayan&hide_border=true&area=true" alt="Ayan's Contribution Activity Graph"/>
-</p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=whois-ayan&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
 
 ## ⭐ Featured Projects
 
@@ -108,23 +81,7 @@ I'm still learning and building my foundation, experimenting with different tech
 
 ---
 
-## 📚 My Learning Journey
 
-```text
-Data Science
-     │
-     ├── Python 🐍
-     ├── Data Analysis 📊
-     ├── Problem Solving 🧠
-     └── Projects 🚀
-
-Programming
-     │
-     ├── Java ☕
-     └── HTML 🌐
-```
-
----
 
 ## 🤝 Connect With Me
 
