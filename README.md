@@ -1,38 +1,152 @@
-## Hi there 👋 Ayan Sohail
+# 👋 Hi there, I'm Ayan Sohail
 
-A student currently pursuing **Data Science** and exploring the world of technology and programming.
+### 📊 Aspiring Data Scientist | Student | Developer in Progress
 
-I'm currently learning and working with:
+I'm a student currently pursuing **Data Science** and exploring the world of programming, technology, and data.
+
+I'm still learning and building my foundation, experimenting with different technologies and working on small projects along the way.
+
+### 🌱 Currently Learning
 
 * 🐍 Python
 * ☕ Java
 * 🌐 HTML
 * 📊 Data Science
+* 🧠 Data Analysis & Problem Solving
 
-I enjoy learning new things, experimenting with code, and gradually turning ideas into small projects.
-I'm still learning, improving, and figuring things out one line of code at a time. 🚀
-**Currently:** Learning • Building • Exploring
+### 💭 A Little About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whois-ayan&label=Profile%20views&color=0e75b6&style=flat" alt="whois-ayan" /> </p>
+* 🎓 Currently pursuing **Data Science**
+* 💻 Enjoy learning and experimenting with code
+* 📚 Always trying to learn something new
+* 🛠️ Building small projects as I learn
+* 🚀 Slowly turning ideas into real projects
+* 🌱 Learning, improving, and growing one step at a time
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whois-ayan" alt="whois-ayan" /></a> </p>
+> *"Still learning. Still building. Still becoming better."*
 
-<p align="left"> <a href="https://twitter.com/ayansohail31404" target="blank"><img src="https://img.shields.io/twitter/follow/ayansohail31404?logo=twitter&style=for-the-badge" alt="ayansohail31404" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://twitter.com/ayansohail31404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayansohail31404" height="30" width="40" /></a>
-<a href="https://kaggle.com/dragon ball" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dragon ball" height="30" width="40" /></a>
-<a href="https://instagram.com/howeird_ayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="howeird_ayan" height="30" width="40" /></a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whois-ayan&show_icons=true&locale=en&layout=compact" alt="whois-ayan" /></p>
+## 📈 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whois-ayan&show_icons=true&locale=en" alt="whois-ayan" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whois-ayan&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-ayan&layout=compact&hide_border=true&langs_count=8" height="180"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whois-ayan&" alt="whois-ayan" /></p>
+---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whois-ayan&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whois-ayan&hide_border=true&area=true" alt="Ayan's Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=whois-ayan&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+> Projects will be added here as I build and improve them.
+
+<p align="center">
+
+<a href="https://github.com/whois-ayan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whois-ayan&repo=YOUR-REPOSITORY-NAME&hide_border=true" />
+</a>
+
+<a href="https://github.com/whois-ayan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=whois-ayan&repo=YOUR-SECOND-REPOSITORY&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+## 📚 My Learning Journey
+
+```text
+Data Science
+     │
+     ├── Python 🐍
+     ├── Data Analysis 📊
+     ├── Problem Solving 🧠
+     └── Projects 🚀
+
+Programming
+     │
+     ├── Java ☕
+     └── HTML 🌐
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/ayansohail31404">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/howeird_ayan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/whois-ayan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whois-ayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>Learning • Building • Exploring • Improving 🚀</i>
+</p>
 
