@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Ayan Sohail
 
-<!--
-**whois-ayan/whois-ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student currently pursuing **Data Science** and exploring the world of technology and programming.
 
-Here are some ideas to get you started:
+I'm currently learning and working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* ☕ Java
+* 🌐 HTML
+* 📊 Data Science
+
+I enjoy learning new things, experimenting with code, and gradually turning ideas into small projects.
+I'm still learning, improving, and figuring things out one line of code at a time. 🚀
+**Currently:** Learning • Building • Exploring
